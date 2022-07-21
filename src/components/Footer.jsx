@@ -19,18 +19,18 @@ function Footer() {
         <a href="">
           <FaGithub className="mx-2" size={30} />
         </a>
-        <a href="">
+        <a href="https://github.com/remcells">
           <BsFillPersonLinesFill className="mx-2" size={30} />
         </a>
-        <a href="">
+        <a href="https://www.facebook.com/remcel.salmasan">
           <FaFacebook className="mx-2" size={30} />
         </a>
-        <a href="">
+        <a href="https://www.linkedin.com/in/remcel-jonas-salmasan/">
           <FaLinkedin className="mx-2" size={30} />
         </a>
       </div>
       <a
-        href="mailto:webcifar@gmail.com"
+        href="mailto:salmasanremcel@gmail.com"
         className="text-sm md:text-md hover:text-indigo-500"
       >
         salmasanremcel@email.com
