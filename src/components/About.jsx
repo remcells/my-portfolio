@@ -10,10 +10,7 @@ function About() {
         <p className=" text-gray-300 text-2xl leading-relaxed">
           My name is Remcel. I'm a Full Stack Web Developer currently based in
           Taguig City, Philippines. I have serious passion for Web Development
-          and creating solutions for complex problems. Well-organised person,
-          problem solver and an independent employee with high attention to
-          detail. Fan of Basketball, videogames, TV series and Animes. A free
-          soul who lives life to the fullest.
+          and creating solutions for complex problems.
         </p>
         <a
           href="mailto:webcifar.com"
