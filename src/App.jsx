@@ -9,7 +9,6 @@ import Works from './components/Works';
 const App = () => {
   return (
     <div>
-      <Navbar />
       <div className="bg-slate-900 min-h-screen ">
         <div className="max-w-7xl w-10/12 mx-auto">
           <Home />
