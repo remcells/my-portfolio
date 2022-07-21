@@ -22,7 +22,7 @@ export default [
     title: 'To Do App',
     imgUrl: todoapp,
     tech: ['HTML', 'CSS', 'ReactJS'],
-    workUrl: 'https://github.com/remcells/to-do-app',
+    workUrl: 'https://remcells.github.io/to-do-app/',
   },
   {
     title: 'LazShoppee',
