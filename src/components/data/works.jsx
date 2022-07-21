@@ -3,8 +3,15 @@ import ecommerce from './ecommerce.png';
 import todoapp from './todoapp.png';
 import twitterclone from './twitterclone.png';
 import talpakan from './talpakan.png';
+import guessingGame from './guessingGame.png';
 
 export default [
+  {
+    title: 'Guessing Game',
+    imgUrl: guessingGame,
+    tech: ['HTML', 'CSS', 'JavaScript'],
+    workUrl: 'https://remcells.github.io/guessing-game/',
+  },
   {
     title: 'TLPKN Game',
     imgUrl: talpakan,
