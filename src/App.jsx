@@ -10,6 +10,7 @@ const App = () => {
   return (
     <div>
       <div className="bg-slate-900 min-h-screen ">
+        <Navbar />
         <div className="max-w-7xl w-10/12 mx-auto">
           <Home />
           <Works />

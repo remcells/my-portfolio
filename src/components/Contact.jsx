@@ -4,6 +4,7 @@ import SectionTitle from './SectionTitle';
 const Contact = () => {
   return (
     <div
+      id="contact"
       name="contact"
       className="h-full bg-[#0a192f] flex justify-center items-center p-4"
     >

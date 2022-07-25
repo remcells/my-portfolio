@@ -4,7 +4,10 @@ import SectionTitle from './SectionTitle';
 
 function About() {
   return (
-    <div className="h-screen w-full flex flex-col md:flex-row items-center  gap-10 md:gap-20 py-12">
+    <div
+      id="about"
+      className="h-screen w-full flex flex-col md:flex-row items-center  gap-10 md:gap-20 py-12"
+    >
       <div className="w-full md:w-6/12 ">
         <SectionTitle>About Me</SectionTitle>
         <p className=" text-gray-300 text-2xl leading-relaxed">

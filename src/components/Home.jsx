@@ -3,7 +3,7 @@ import React from 'react';
 function Home() {
   return (
     <div
-      id="hero"
+      id="home"
       className=" h-screen flex items-center justify-center flex-col py-20"
     >
       <h1 className="text-xl sm:text-8xl font-bold text-indigo-500">
